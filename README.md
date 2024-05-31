@@ -1,16 +1,16 @@
 # TSP_TravelingSalesmanProblem
-Acest proiect implementează mai multe algoritmi pentru a rezolva problema comis-voiajorului (TSP). Proiectul include implementări pentru algoritmi precum A*, BFS, și UCS, precum și un modul pentru calcularea euristicilor.
+This project implements several algorithms to solve the Traveling Salesman Problem (TSP). The project includes implementations for algorithms such as A*, BFS, and UCS, as well as a module for computing heuristics.
 
-## Structura Proiectului
-* astar.py: Implementarea algoritmului A* pentru TSP.
-* bfs.py: Implementarea algoritmului de căutare în lățime (BFS) pentru TSP.
-* heuristics.py: Calculul euristicilor utilizate de algoritmi.
-* input: Fișierul de intrare care conține datele de intrare pentru problemă.
-* io_utils.py: Funcții utilitare pentru citirea și scrierea datelor de intrare și ieșire.
-* main.py: Punctul de intrare al aplicației, unde sunt inițializați și rulați algoritmii.
-* output: Fișierul de ieșire unde sunt stocate rezultatele.
-* tsp.py: Implementarea principală a problemei TSP.
-* ucs.py: Implementarea algoritmului de căutare uniform-cost (UCS) pentru TSP.
+## Project Structure
+* astar.py: Implementation of the A* algorithm for TSP.
+* bfs.py: Implementation of the breadth-first search (BFS) algorithm for TSP.
+* heuristics.py: Calculation of heuristics used by the algorithms.
+* input: The input file containing the input data for the problem.
+* io_utils.py: Utility functions for reading and writing input and output data.
+* main.py: Entry point of the application, where the algorithms are initialized and run.
+* output: The output file where the results are stored.
+* tsp.py: The main implementation of the TSP problem.
+* ucs.py: Implementation of the uniform-cost search (UCS) algorithm for TSP.
 
 ## How to run the project
 
