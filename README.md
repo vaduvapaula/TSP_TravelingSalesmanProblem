@@ -31,3 +31,6 @@ Run
 ```bash
   python main.py
 ```
+```bash
+  python output
+```
