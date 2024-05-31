@@ -1,0 +1,13 @@
+BFS Path: [0, 4, 6, 1, 2, 3, 5, 0]
+BFS Cost: 245
+BFS Execution Time: 0.000999 seconds
+
+UCS Path: [0, 4, 6, 1, 2, 3, 5, 0]
+UCS Cost: 245
+UCS Execution Time: 0.002001 seconds
+
+A* Path: [0, 4, 6, 1, 2, 3, 5, 0]
+A* Cost: 245
+A* Execution Time: 0.003099 seconds
+
+Total Execution Time: 0.007097 seconds
