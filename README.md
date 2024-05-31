@@ -11,3 +11,23 @@ Acest proiect implementează mai multe algoritmi pentru a rezolva problema comis
 * output: Fișierul de ieșire unde sunt stocate rezultatele.
 * tsp.py: Implementarea principală a problemei TSP.
 * ucs.py: Implementarea algoritmului de căutare uniform-cost (UCS) pentru TSP.
+
+## How to run the project
+
+### Windows
+
+Clone the project
+```bash
+  git clone (https://github.com/vaduvapaula/TSP_TravelingSalesmanProblem)
+```
+
+Go to the project directory
+
+```bash
+  cd TSP_TravelingSalesmanProblem
+```
+
+Run
+```bash
+  python main.py
+```
