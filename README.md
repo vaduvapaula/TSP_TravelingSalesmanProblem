@@ -15,9 +15,9 @@ This project implements several algorithms to solve the Traveling Salesman Probl
 ## How to run the project
 ### PyCharm
 **Download the project:**
-    * Access [on GitHub](https://github.com/vaduvapaula/TSP_TravelingSalesmanProblem).
-    * Click on the green "Code" button and select "Download ZIP".
-    * Unzip the ZIP file to a folder on your computer and open it with PyCharm
+* Access [on GitHub](https://github.com/vaduvapaula/TSP_TravelingSalesmanProblem).
+* Click on the green "Code" button and select "Download ZIP".
+* Unzip the ZIP file to a folder on your computer and open it with PyCharm
 
 ### Windows
 
