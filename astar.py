@@ -1,5 +1,3 @@
-# astar.py
-
 import heapq
 from heuristics import heuristic
 
