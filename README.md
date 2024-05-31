@@ -7,10 +7,10 @@ This project implements several algorithms to solve the Traveling Salesman Probl
 * **heuristics.py**: Calculation of heuristics used by the algorithms.
 * **input**: The input file containing the input data for the problem.
 * **io_utils.py**: Utility functions for reading and writing input and output data.
-* **main.py**: The entry point of the application, where the algorithms are initialized and run.
+* **main.py**: Entry point of the application, where the algorithms are initialized and run.
 * **output**: The output file where the results are stored.
 * **tsp.py**: The main implementation of the TSP problem.
-* **ucs.py**: The implementation of the uniform-cost search (UCS) algorithm for TSP.
+* **ucs.py**: Implementation of the uniform-cost search (UCS) algorithm for TSP.
 
 ## How to run the project
 
