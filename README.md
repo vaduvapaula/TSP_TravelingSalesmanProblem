@@ -13,7 +13,7 @@ This project implements several algorithms to solve the Traveling Salesman Probl
 * **ucs.py**: Implementation of the uniform-cost search (UCS) algorithm for TSP.
 
 ## How to run the project
-## PyCharm
+### PyCharm
 **Download the project:**
     - Access [pagina proiectului pe GitHub](https://github.com/utilizator/proiect).
     - Click on the green "Code" button and select "Download ZIP".
