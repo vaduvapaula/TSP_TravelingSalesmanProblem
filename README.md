@@ -23,7 +23,7 @@ This project implements several algorithms to solve the Traveling Salesman Probl
 
 Clone the project
 ```bash
-  git clone (https://github.com/vaduvapaula/TSP_TravelingSalesmanProblem)
+  git clone https://github.com/vaduvapaula/TSP_TravelingSalesmanProblem
 ```
 
 Go to the project directory
